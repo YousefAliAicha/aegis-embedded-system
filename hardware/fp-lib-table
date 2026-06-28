@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HC-SR04") (type "KiCad") (uri "${KIPRJMOD}/HC-SR04") (options "") (descr ""))
+)

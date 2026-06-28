@@ -1,0 +1,31 @@
+# Wi-Fi credentials — never commit the real file
+firmware/aegis-deneyap/secrets.h
+
+# Arduino build artefacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# CLion / PlatformIO
+.pio/
+.clang-format
+cmake-build-*/
+
+# KiCad undo history — local editor state, not source
+hardware/.history/
+
+
+ 
+
