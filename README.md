@@ -241,3 +241,4 @@ hint: Disable this message with "git config set advice.addEmbeddedRepo false"
 - [ESP32Servo](https://github.com/madhephaestus/ESP32Servo) — Kevin Harrington
 - [ArduinoJson](https://arduinojson.org) — Benoit Blanchon
 - Deneyap Kart hardware and board support — [Deneyap](https://deneyapkart.org)
+- [HC-SR04 KiCad Model](https://www.snapeda.com/parts/HC-SR04/SparkFun/view-part/) — SparkFun
